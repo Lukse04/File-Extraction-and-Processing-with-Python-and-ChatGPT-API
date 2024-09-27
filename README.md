@@ -80,4 +80,4 @@ The script will extract the ZIP file, process all files, and send their content 
 
 ## Contact
 
-If you have any questions or need assistance, feel free to contact me at: your@email.com.
+If you have any questions or need assistance, feel free to contact me at: :D .
